@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jSAN9bncIyuCvpLnP63a9W7HNQshAjr9gMpTmKeYyfc=",
+  "Source": "CovidAnalysis.API",
+  "BasePath": "_content/CovidAnalysis.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

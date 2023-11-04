@@ -1,0 +1,12 @@
+C:\Testes\CovidAnalysis\CovidAnalysis.Core\bin\Debug\net6.0\CovidAnalysis.Core.deps.json
+C:\Testes\CovidAnalysis\CovidAnalysis.Core\bin\Debug\net6.0\CovidAnalysis.Core.dll
+C:\Testes\CovidAnalysis\CovidAnalysis.Core\bin\Debug\net6.0\CovidAnalysis.Core.pdb
+C:\Testes\CovidAnalysis\CovidAnalysis.Core\obj\Debug\net6.0\CovidAnalysis.Core.csproj.AssemblyReference.cache
+C:\Testes\CovidAnalysis\CovidAnalysis.Core\obj\Debug\net6.0\CovidAnalysis.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Testes\CovidAnalysis\CovidAnalysis.Core\obj\Debug\net6.0\CovidAnalysis.Core.AssemblyInfoInputs.cache
+C:\Testes\CovidAnalysis\CovidAnalysis.Core\obj\Debug\net6.0\CovidAnalysis.Core.AssemblyInfo.cs
+C:\Testes\CovidAnalysis\CovidAnalysis.Core\obj\Debug\net6.0\CovidAnalysis.Core.csproj.CoreCompileInputs.cache
+C:\Testes\CovidAnalysis\CovidAnalysis.Core\obj\Debug\net6.0\CovidAnalysis.Core.dll
+C:\Testes\CovidAnalysis\CovidAnalysis.Core\obj\Debug\net6.0\refint\CovidAnalysis.Core.dll
+C:\Testes\CovidAnalysis\CovidAnalysis.Core\obj\Debug\net6.0\CovidAnalysis.Core.pdb
+C:\Testes\CovidAnalysis\CovidAnalysis.Core\obj\Debug\net6.0\ref\CovidAnalysis.Core.dll
